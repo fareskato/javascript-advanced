@@ -1,5 +1,5 @@
 /**
- * primitive types(string, number, boolean) :  pass by value.
+ * primitive types(string, number, boolean, null, undefined) :  pass by value.
  * objects(objects, arrays, functions) : pass by reference.
  * */
 
